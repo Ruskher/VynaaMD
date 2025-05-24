@@ -37,21 +37,21 @@ global.setting = {
 
 // Owner Information
 global.owner = [
-  ['6282389924037', 'Pinaa', true],
+  ['6283890107168', 'Ganteng', true],
 ];
 
 // Bot Information
 global.info = {
-  nomerbot: 'GANTI_NOMORBOT_MU',
-  pairingNumber: 'GANTI_NOMORBOT_MU',
+  nomerbot: '6285950285917',
+  pairingNumber: '6285950285917',
   nameown: 'Pinaa',
-  nomerown: '6282389924037',
+  nomerown: '6283890107168',
   token: 'VynaaMD1a2b3c', // Token harus diisi agar bot dapat berjalan
   packname: 'sticker by',
-  author: 'Vynaa Valerie',
-  namebot: 'Vynaa MD 10.23',
-  wm: 'made by Pinaa',
-  stickpack: 'YTB Vynaa Valerie',
+  author: 'Professor',
+  namebot: 'Professor 10.23',
+  wm: 'made by Ganteng',
+  stickpack: 'RN',
   stickauth: 'S U B S C R I B E',
 };
 
